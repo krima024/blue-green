@@ -5,6 +5,6 @@ phases:
     commands:
     - echo "This is build phase... Zipping my webpage"
  
-  post_build:
-    commands:
-    - echo "Deployed to S3"
+#   post_build:
+#     commands:
+#     - echo "Deployed to S3"
